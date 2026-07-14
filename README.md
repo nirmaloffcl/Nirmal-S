@@ -114,7 +114,7 @@ Multi-agent LLM systems and orchestration
 I'm actively looking for opportunities in Generative AI Engineering, LLM Integration, RAG Development, and AI Application Development.
 
 📧 Email: nirmaloffcl@gmail.com
-🔗 LinkedIn: linkedin.com/in/nirmal-sb88386422
+🔗 LinkedIn: linkedin.com/in/nirmaloffcl
 📱 Phone: 9944866062
 
 
